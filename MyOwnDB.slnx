@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ferretDB.Cli/ferretDB.Cli.csproj" />
+  <Project Path="ferretDB.Core/ferretDB.Core.csproj" />
+</Solution>
